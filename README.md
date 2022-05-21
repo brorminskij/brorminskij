@@ -30,10 +30,10 @@ Hi, I'm Alexander! <img src="https://raw.githubusercontent.com/MartinHeinz/Marti
 <br>
     <img align="right" height="200px" alt="sakura" src="https://github.com/brorminskij/brorminskij/blob/main/sakura.png" />
 
-   ### I am a frontend developer
+   ### I am a developer
   - 💻 Most of my projects are available right here on Github or at http://borminskij.com/
   - ✏️ Currently working as a junior full-stack developer
-  - 🌱 Currenly used tech stack: Next, React & React Native, Typescript, Chakra-UI
+  - 🌱 Currently used tech stack: Next, React & React Native, Typescript, Chakra-UI
   - 📫 How to reach me: alexander.borminskij@gmail.com
   - 💬 Ask me about anything!
   - ⚡ Fun fact: My dogs name is Bilbo :wolf:
