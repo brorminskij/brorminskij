@@ -32,8 +32,8 @@ Hi, I'm Alexander! <img src="https://raw.githubusercontent.com/MartinHeinz/Marti
 
    ### I am a frontend developer
   - 💻 Most of my projects are available right here on Github or at http://borminskij.com/
-  - ✏️ Currently doing an intership
-  - 🌱 I’m currently working with React, typescript & chakra ui
+  - ✏️ Currently working as a junior full-stack developer
+  - 🌱 Currenly used tech stack: Next, React & React Native, Typescript, Chakra-UI
   - 📫 How to reach me: alexander.borminskij@gmail.com
   - 💬 Ask me about anything!
   - ⚡ Fun fact: My dogs name is Bilbo :wolf:
