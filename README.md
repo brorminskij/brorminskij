@@ -32,8 +32,7 @@ Hi, I'm Alexander!
 
    ### I am a developer
   - 💻 Most of my projects are available right here on Github or at http://borminskij.com/
-  - ✏️ Currently working as a junior full-stack developer
-  - 🌱 Currently used tech stack: Next, React & React Native, Typescript, Chakra-UI
+  - ✏️ Currently working as a junior fullstack developer
   - 📫 How to reach me: alexander.borminskij@gmail.com
   - 💬 Ask me about anything!
   - ⚡ Fun fact: My dogs name is Bilbo :wolf:
