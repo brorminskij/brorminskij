@@ -26,14 +26,9 @@ Hi, I'm Alexander!
 
 <br>
 <br>
-    <img align="right" height="200px" alt="sakura" src="https://github.com/brorminskij/brorminskij/blob/main/sakura.png" />
 
    ###
   - 💻 CV: http://borminskij.com/
   - ✏️ Currently working as a developer
   - 📫 How to reach me: alexander.borminskij@gmail.com
   - 💬 Ask me about anything!
-  - ⚡ Fun fact: My dogs name is Bilbo :wolf:
-
-<br>
-<br>
