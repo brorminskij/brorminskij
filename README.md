@@ -1,5 +1,3 @@
-<img src="https://github.com/brorminskij/brorminskij/blob/main/wave-top.svg" alt="header wave design" />
-
 <h1 align="center">
 Hi, I'm Alexander!
     
@@ -30,13 +28,12 @@ Hi, I'm Alexander!
 <br>
     <img align="right" height="200px" alt="sakura" src="https://github.com/brorminskij/brorminskij/blob/main/sakura.png" />
 
-   ### I am a developer
-  - 💻 Most of my projects are available right here on Github or at http://borminskij.com/
-  - ✏️ Currently working as a junior fullstack developer
+   ###
+  - 💻 CV: http://borminskij.com/
+  - ✏️ Currently working as a developer
   - 📫 How to reach me: alexander.borminskij@gmail.com
   - 💬 Ask me about anything!
   - ⚡ Fun fact: My dogs name is Bilbo :wolf:
 
 <br>
 <br>
-<img src="https://github.com/brorminskij/brorminskij/blob/main/wave-bot.svg" alt="footer wave design" />
