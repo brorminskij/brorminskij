@@ -25,10 +25,9 @@ Hi, I'm Alexander!
  </div>
 
 <br>
-<br>
 
    ###
-  - 💻 CV: http://borminskij.com/
-  - ✏️ Currently working as a developer
+  - 💻 Portfolio: http://borminskij.com/
+  - ✏Currently working as a developer
   - 📫 How to reach me: alexander.borminskij@gmail.com
   - 💬 Ask me about anything!
