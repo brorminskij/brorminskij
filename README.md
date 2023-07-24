@@ -1,10 +1,5 @@
 <h1 align="center">
 Hi, I'm Alexander!
-    
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/brorminskij" />
-</p>
-
 
 <h1 align="center">
   Tech Stack
